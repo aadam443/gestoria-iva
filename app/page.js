@@ -534,4 +534,3 @@ const btnPrimaryStyle = {
   border: 'none', borderRadius: 6, cursor: 'pointer', whiteSpace: 'nowrap'
 }
 
-const supabase = createClient(process.env.NEXT_PUBLIC_SUPABASE_URL, process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
